@@ -175,13 +175,8 @@ Deleted successfully
 ---
 
 ## 📸 Screenshots
+https://drive.google.com/drive/folders/1cui7Tp5h5tHDtXMjzU85KYw9QfHLm8V0?usp=sharing
 
-![import.png](../../Log/import.png)
-![export.png](../../Log/export.png)
-![delet.png](../../Log/delet.png)
-![update.png](../../Log/update.png)
-![view.png](../../Log/view.png)
-![меню.png](../../Log/%D0%BC%D0%B5%D0%BD%D1%8E.png)
 ## 🔗 Presentation
 
 https://drive.google.com/drive/folders/1feJgi2bJk72GyBcdXwOw1YxlGeZFhbRR?usp=drive_link
